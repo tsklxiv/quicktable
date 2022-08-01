@@ -9,6 +9,8 @@
 
 <div align="center">
 
+<img src="quicktable_logo.png" alt="Quicktable logo; A 2x2 black grid with a yellow background">
+
 # quicktable
 
 Generate beautiful CLI tables on the fly, from CSV files.
