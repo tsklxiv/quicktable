@@ -33,7 +33,6 @@ quicktable -f Sample100.csv -o something.txt     # Output table to file somethin
 
 - [x] Generate beautiful CLI tables
 - [x] Support CSV
-- [ ] Custom table row and height
 - [x] Custom output to file
 - [x] Custom captions
 
