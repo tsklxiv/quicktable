@@ -16,7 +16,7 @@ Generate beautiful CLI tables on the fly, from CSV files.
 [Getting started](#getting-started) •
 [Features](#features) •
 [Installation](#installation) •
-[Configuration](#configuration)
+[CLI](#cli)
 
 </div>
 
@@ -38,8 +38,23 @@ quicktable -f Sample100.csv -o something.txt     # Output table to file somethin
 
 ## Installation
 
-## Configuration
+Install directly from `go`:
 
-### Flags
+```sh
+$ go install github.com/HoangTuan110/quicktable
+```
+
+## CLI
+
+```
+Generate beautiful CLI tables on the fly from CSV files.
+
+Options:
+
+  -h, --help      display help information
+  -f, --file      file to parse
+  -c, --caption   caption for table
+  -o, --output    Output to file
+```
 
 </div>
