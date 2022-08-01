@@ -24,6 +24,8 @@ Generate beautiful CLI tables on the fly, from CSV files.
 
 ## Getting started
 
+[![asciicast](https://asciinema.org/a/0SGXgIst0w6SrS2CE6t8MK98r.svg)](https://asciinema.org/a/0SGXgIst0w6SrS2CE6t8MK98r)
+
 ```sh
 quicktable -f data.csv                           # Generate table from a CSV file
 quicktable -h                                    # Print help section
