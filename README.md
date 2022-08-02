@@ -16,7 +16,6 @@
 Generate beautiful CLI tables on the fly, from CSV files.
 
 [Getting started](#getting-started) •
-[Features](#features) •
 [Installation](#installation) •
 [CLI](#cli)
 
@@ -32,13 +31,6 @@ quicktable -h                                    # Print help section
 quicktable -f Sample100.csv -c "100 CSV Records" # Generate table with custom captions
 quicktable -f Sample100.csv -o something.txt     # Output table to file something.txt
 ```
-
-## Features
-
-- [x] Generate beautiful CLI tables
-- [x] Support CSV
-- [x] Custom output to file
-- [x] Custom captions
 
 ## Installation
 
